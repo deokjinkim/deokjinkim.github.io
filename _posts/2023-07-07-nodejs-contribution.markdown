@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Node.js 오픈소스 기여하기
+title: Node.js 오픈소스 기여 시작하기
 date: 2023-07-08 00:40:00 +0900
-category: sample
+category: Opensource
 ---
 
 # 로컬 환경 설정하고 PR(Pull Request) 만들기
