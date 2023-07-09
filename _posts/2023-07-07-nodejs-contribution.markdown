@@ -49,7 +49,7 @@ git commit
 
 ### Commit 메시지 가이드라인 (중요)
 
-1. 첫번째 라인은 subsystem과 imperative verb로 시작해야 한다. </br>
+1. 첫번째 라인은 subsystem과 imperative verb로 시작해야 한다.  
    예제:
    - `net: add localAddress and localPort to Socket`
    - `src: fix typos in async_wrap.h`
@@ -58,7 +58,7 @@ git commit
 
 3. 모든 다른 라인은 72열을 넘지 않아야 한다.(긴 URL 제외)
 
-4. 오픈된 이슈를 위한 패치는 `Fixes:`를 사용하고, 다른 레퍼런스는 `Refs:`를 사용한다. </br>
+4. 오픈된 이슈를 위한 패치는 `Fixes:`를 사용하고, 다른 레퍼런스는 `Refs:`를 사용한다.  
    예제:
    - `Fixes: https://github.com/nodejs/node/issues/1337`
    - `Refs: https://eslint.org/docs/rules/space-in-parens.html`
@@ -93,5 +93,5 @@ git push origin my-branch
 
 - 2명 이상의 Node.js Collaborator로부터 승인을 받은 경우: 2일 후에 Merge
 - 1명의 Node.js Collaborator로부터 승인을 받은 경우: 7일 후에 Merge
-- 문서 외의 코드 수정이 있다면 Jenkins CI(Continuous Integration) 테스트가 필요하다. </br>
+- 문서 외의 코드 수정이 있다면 Jenkins CI(Continuous Integration) 테스트가 필요하다.  
   승인을 받은후, Node.js Collaborator에게 Jenkins CI 테스트 실행을 요청한다.
