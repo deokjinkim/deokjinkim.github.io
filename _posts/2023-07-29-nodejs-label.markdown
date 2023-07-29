@@ -27,7 +27,7 @@ category: Opensource
   Collaborator가 thumb up 버튼을 2개 이상 누르면, bot이 PR을 Land한다.  
 
 - `needs-ci`  
-  JS, C++ 코드가 변경되어 Jenkins CI 수행이 필요한 경우.
+  JS, C++ 코드가 변경되어 Jenkins CI 수행이 필요한 경우.  
   Collaborator(또는 Triager)가 아닌 경우 권한이 없기 때문에, 권한을 가진 사람에게 CC(Ex. cc @deokjinkim)하여 부탁한다.
 
 - `semver-major`  
