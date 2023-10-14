@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Node.js 기여시 알면 좋은 것들 - Class의 Private field
-date: 2023-10-14 16:25:00 +0900
+date: 2023-10-14 12:44:00 +0900
 category: Opensource
 ---
 
