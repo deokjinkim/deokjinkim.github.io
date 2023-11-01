@@ -33,3 +33,9 @@ category: Opensource
 
    nodejs-build 채널: 빌드 이슈 등을 논의  
    nodejs-core 채널: PR 리뷰 요청, Core 관련 질문 등을 논의
+
+# Article
+
+* Using V8 Fast API in Node.js core: [https://www.yagiz.co/using-v8-fast-api-in-node-js-core](https://www.yagiz.co/using-v8-fast-api-in-node-js-core)
+
+* Slides of joyeecheung's talks: [https://github.com/joyeecheung/talks](https://github.com/joyeecheung/talks)
