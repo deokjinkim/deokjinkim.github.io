@@ -25,7 +25,7 @@ category: Opensource
 
 # ECMAScript
 
-* Compatibility table: [http://kangax.github.io/compat-table/es6](http://kangax.github.io/compat-table/es6)
+* Compatibility table: [https://compat-table.github.io/compat-table/es6/](https://compat-table.github.io/compat-table/es6/)
 
 # Slack
 
